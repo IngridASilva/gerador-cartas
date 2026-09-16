@@ -1,0 +1,6 @@
+# Ver comentário em conciliador-folha/.gitattributes.
+build/*.py linguist-vendored
+build/*.js linguist-vendored
+*.bas linguist-language=VBA
+
+*.bas text eol=crlf
