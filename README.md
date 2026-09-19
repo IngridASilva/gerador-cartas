@@ -1,4 +1,4 @@
-# gerador-cartas
+# hr-letter-generator
 
 Gerador de cartas e comunicados de RH em lote. Preenche um modelo do Word para
 cada linha da planilha, salva em PDF individual, registra no log e prepara os
